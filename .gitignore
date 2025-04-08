@@ -1,0 +1,18 @@
+
+# Ignorar archivos y directorios de configuración de entorno
+/.env
+# Directorio de dependencias de Composer
+/vendor/
+
+# Archivos de configuración locales de IDE
+/.idea/
+/.vscode/
+
+# Archivos sensibles de configuración
+/google_ads_php.ini
+/composer.json
+
+# Archivos de log
+/config/info.log
+/config/keywords_result.csv
+/config/keywords_result.json
